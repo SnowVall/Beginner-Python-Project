@@ -1,1 +1,1 @@
-# Small-Python-Project
+# Beginner-Python-Project
