@@ -6,3 +6,6 @@ __List of Project I've made__
 - Number Guessing game
 - Rock Paper Scissor
 - Quizz game
+- Clock
+- Calculator
+- Text Editor
